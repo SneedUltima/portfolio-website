@@ -13,7 +13,7 @@ const Work = () => {
           <p className="py-4">// Check out some of my projects</p>
         </div>
         {/* Container */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md: grid-cols-3 gap-4">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${WorkImg})` }}

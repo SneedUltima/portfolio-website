@@ -11,6 +11,15 @@
   li {
     @apply px-4;
     @apply cursor-pointer;
+    @apply hover:text-white;
+    @apply duration-300;
+    @apply relative;
+  }
+  li::after {
+    @apply content-[""] absolute bg-[#05b8ff] h-[3px] w-[0%] left-0 -bottom-[5px] rounded-xl duration-300;
+  }
+  li:hover::after {
+    @apply w-[100%];
   }
 }
 
@@ -18,7 +27,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 250px;
+  height: 450px;
 }
 
 .content-div:hover {

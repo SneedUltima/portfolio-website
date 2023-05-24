@@ -2,11 +2,12 @@ import React from "react";
 import WorkImg from "../assets/projects/workImg.jpeg";
 import RealEstateImg from "../assets/projects/realestate.jpg";
 import socialscape from "../assets/projects/socialscape-min.JPG";
+import Cryptoscape from "../assets/projects/Cryptoscape.jpg";
 
 const Work = () => {
   return (
     <div name="work" className="w-full md:h-screen bg-[#0a192f] text-gray-300">
-      <div className="max-w-[1600px] mx-auto p-4 flex flex-col w-full h-full">
+      <div className="max-w-[1800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 borber-b-4 border-[#05b8ff]">
             Work
@@ -40,21 +41,21 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${Cryptoscape})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className=" text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Crypto Database Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://helpful-dieffenbachia-34da37.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/SneedUltima/Crypto-Database-Application">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>

@@ -1,7 +1,7 @@
 import React from "react";
 import WorkImg from "../assets/projects/workImg.jpeg";
 import RealEstateImg from "../assets/projects/realestate.jpg";
-import socialscape from "../assets/projects/socialscape-min.JPG";
+import RushApp from "../assets/projects/RushApp.jpg";
 import Cryptoscape from "../assets/projects/Cryptoscape.jpg";
 
 const Work = () => {
@@ -18,21 +18,21 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${socialscape})` }}
+            style={{ backgroundImage: `url(${RushApp})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className=" text-2xl font-bold text-white tracking-wider">
-                Social Media Application
+                E-Commerce Store
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://comfy-sawine-23f707.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/SneedUltima/social-media-app">
+                <a href="https://github.com/SneedUltima/E-Commerce-App">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>

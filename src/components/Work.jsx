@@ -28,12 +28,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://comfy-sawine-23f707.netlify.app/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-slate-100">
                     Demo
                   </button>
                 </a>
                 <a href="https://github.com/SneedUltima/E-Commerce-App">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-slate-100">
                     Code
                   </button>
                 </a>
@@ -51,12 +51,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://helpful-dieffenbachia-34da37.netlify.app/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-slate-100">
                     Demo
                   </button>
                 </a>
                 <a href="https://github.com/SneedUltima/Crypto-Database-Application">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-slate-100">
                     Code
                   </button>
                 </a>
@@ -74,12 +74,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-slate-100">
                     Demo
                   </button>
                 </a>
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-slate-100">
                     Code
                   </button>
                 </a>

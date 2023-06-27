@@ -1,6 +1,6 @@
 import React from "react";
 import WorkImg from "../assets/projects/workImg.jpeg";
-import RealEstateImg from "../assets/projects/realestate.jpg";
+import SocialBuzz from "../assets/projects/buzz.JPG";
 import RushApp from "../assets/projects/RushApp.jpg";
 import Cryptoscape from "../assets/projects/Cryptoscape.jpg";
 
@@ -64,21 +64,22 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${SocialBuzz})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className=" text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                In Progress: Social Media App
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                {/* <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-slate-100">
                     Demo
                   </button>
-                </a>
-                <a href="/">
+                </a> */}
+                <p>Demo coming soon...</p>
+                <a href="https://github.com/SneedUltima/social-media-app-next">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-slate-100">
                     Code
                   </button>

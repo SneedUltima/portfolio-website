@@ -20,11 +20,12 @@ const About = () => {
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore,
-              eaque quos provident saepe itaque tempora iure minima temporibus.
-              Voluptate beatae ducimus tenetur fugiat nemo ullam, ad nam quas
-              assumenda eum quasi, nesciunt voluptatum quibusdam aperiam iure
-              expedita reprehenderit eius iste?
+              Enthusiatic about life-long learning, I am passionate about web
+              development and the endless possibilities it offers. I am always
+              seeking new challenges and opportunities to grow and improve as a
+              developer. Whether working on a new personal project or learning a
+              new framework, I am committed to delivering high-quality web
+              applications that meet the needs of users.
             </p>
           </div>
         </div>

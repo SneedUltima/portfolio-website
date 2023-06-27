@@ -18,9 +18,9 @@ const Home = () => {
               I'm a Full Stack Developer
             </h2>
             <p className="text-white py-4 max-w-[700px]">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Consectetur aut quisquam illum natus sunt quae consequuntur ipsam
-              non inventore dolor impedit, autem quas culpa aspernatur.
+              Welcome to my portfoilo site! I'm an Australian web developer who
+              is always eager to learn something new. Feel free to check out
+              some my recent personal projects below.
             </p>
             <div>
               <Link
